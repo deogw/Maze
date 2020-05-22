@@ -1,6 +1,6 @@
 
 # Maze Generator
-Genrate maze from CLI.
+Generate maze from CLI.
 
 ## How To Run
 After cloning this repo, you can run in terminal using :
